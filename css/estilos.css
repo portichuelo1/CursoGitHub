@@ -2,4 +2,5 @@ body{
 	background-color: #00F; /*color azul*/
 	font-weight: bold; /*negrita*/
 	color: #F00;/*color de la fuente*/
+	font-size:18px;/*tamaño de la letra*/
 }
